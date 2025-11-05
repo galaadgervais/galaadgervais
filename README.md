@@ -1,4 +1,6 @@
 ## Hi there 👋
+
+![LinkedinBanner charts merging to boxes and racks](https://media.licdn.com/dms/image/v2/D4E16AQH_BFSP-Ij5Og/profile-displaybackgroundimage-shrink_350_1400/B4EZl12xQfKQAY-/0/1758618918579?e=1764201600&v=beta&t=jy9Zg9Ht7RO8Nrgg1jzHX9ORVWBkSzzPJ_5KL6PeJr0)
 I'm Galaad, Supply Chain Manager with expertise in reporting, data preparation, analysis and visualisation.
 - Wrangle multiple data source (Oracle Database, flat file, web)
 - Developing dashboards on Power BI
