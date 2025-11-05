@@ -1,18 +1,17 @@
 ## Hi there 👋
-
 I'm Galaad, Supply Chain Manager with expertise in reporting, data preparation, analysis and visualisation.
 - Wrangle multiple data source (Oracle Database, flat file, web)
 - Developing dashboards on Power BI
 - Data analysis and reporting using PowerBI and Excel.
 
-### 🛠️ Tools
+## 🛠️ Tools
 - Language: M, DAX
 - Visualization: PowerBI, Excel
 
-### 🌱 I’m currently learning
+## 🌱 I’m currently learning
 - SQL
   
-### 📫 How to reach me
+## 📫 How to reach me
 - [Linkedin](https://www.linkedin.com/in/galaadgervais/)
 
 <!--
