@@ -11,7 +11,7 @@ I'm Galaad, Supply Chain Manager with expertise in reporting, data preparation, 
 - Visualization: PowerBI, Excel
 
 ## 🌱 I’m currently learning
-- SQL
+- SQL with [CS50SQL at HarvardX](https://cs50.harvard.edu/sql/)
   
 ## 📫 How to reach me
 - [Linkedin](https://www.linkedin.com/in/galaadgervais/)
